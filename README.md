@@ -1,6 +1,6 @@
 # paper1-iAMAS-Mars-initassessment
-<Simulating Martian Atmospheric Processes and Local Dust Events with a New Global Variable-Resolution Model iAMAS-Mars>
-# two parts of these data(240km & v120km-5km)
+《Simulating Martian Atmospheric Processes and Local Dust Events with a New Global Variable-Resolution Model iAMAS-Mars》
+# two parts of these data(240km & v120km-5km) saved in ZENODO
 ## 240km
 - presssure data
 - skintemp data
@@ -16,3 +16,4 @@
 - ust data
 - horizon wind data(two of them)
 - Note: all data files has a variable with 6 sols in v120km-5km
+# The zenodo DOI is 
