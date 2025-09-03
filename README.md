@@ -9,10 +9,10 @@ data for the paper including two resolusion **.nc
 - co2ice data
 - tau_od2d data
 - horizon wind data(two of them)
-- Note: all data file has a variable with 669 sols in 240km
+- Note: all data files has a variable with 669 sols in 240km except nlif1,ust with 6 sols
 ## v120km-5km
-- nlif1 data(for both cases)
-- tau_od2d(only for v120km-5km case, the one with u240km is above)
-- ust data(for both cases)
-- horizon wind data(two of them)(only for v120km-5km case, the one with u240km is above)
-- Note: all data file has a variable with 6 sols in 240km and v120km-5km
+- nlif1 data
+- tau_od2d data
+- ust data
+- horizon wind data(two of them)
+- Note: all data files has a variable with 6 sols in v120km-5km
