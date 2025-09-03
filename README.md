@@ -1,5 +1,5 @@
-# paper1-iAMAS-Mars-initassessment-
-data for the paper including two resolusion **.nc
+# paper1-iAMAS-Mars-initassessment
+<Simulating Martian Atmospheric Processes and Local Dust Events with a New Global Variable-Resolution Model iAMAS-Mars>
 # two parts of these data(240km & v120km-5km)
 ## 240km
 - presssure data
