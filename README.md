@@ -1,19 +1,21 @@
 # paper1-iAMAS-Mars-initassessment
 《Simulating Martian Atmospheric Processes and Local Dust Events with a New Global Variable-Resolution Model iAMAS-Mars》
 # two parts of these data(240km & v120km-5km) saved in ZENODO
-## 240km
+## 240km(saved as IAMAS_**.nc)
 - presssure data
 - skintemp data
 - tho data
 - theta data
 - co2ice data
 - tau_od2d data
-- horizon wind data(two of them)
+- horizon wind data(two parts)
+- init_static.nc(ter and mesh info)
 - Note: all data files has a variable with 669 sols in 240km except nlif1,ust with 6 sols
-## v120km-5km
+## v120km-5km(saved as IAMAS_v_**.nc)
 - nlif1 data
 - tau_od2d data
 - ust data
-- horizon wind data(two of them)
+- horizon wind data(two parts)
+- init_v_static.nc(ter and mesh info)
 - Note: all data files has a variable with 6 sols in v120km-5km
 # The zenodo DOI is 
